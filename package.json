@@ -1,0 +1,23 @@
+{
+  "name": "search_gig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "angular-cli-ghpages": "^0.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzie254/searchme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzie254/searchme/issues"
+  },
+  "homepage": "https://github.com/suzie254/searchme#readme"
+}
